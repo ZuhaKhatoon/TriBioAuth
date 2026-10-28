@@ -1,0 +1,39 @@
+2025-09-06 20:29:31,809 - __main__ - INFO - Behavioral Authentication System initialized successfully
+2025-09-06 20:29:31,809 - __main__ - INFO - Configuration: development
+2025-09-06 20:29:31,809 - __main__ - INFO - Database: database/auth_system.db
+2025-09-06 20:29:31,813 - __main__ - INFO - Models path: models/saved
+2025-09-06 20:29:31,813 - __main__ - INFO - Starting Behavioral Authentication System...
+2025-09-06 20:29:31,813 - __main__ - INFO - Debug mode: True
+2025-09-06 20:29:31,838 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.56.244:5000
+2025-09-06 20:29:31,838 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 20:29:31,838 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 20:29:38,073 - __main__ - INFO - Behavioral Authentication System initialized successfully
+2025-09-06 20:29:38,073 - __main__ - INFO - Configuration: development
+2025-09-06 20:29:38,073 - __main__ - INFO - Database: database/auth_system.db
+2025-09-06 20:29:38,073 - __main__ - INFO - Models path: models/saved
+2025-09-06 20:29:38,073 - __main__ - INFO - Starting Behavioral Authentication System...
+2025-09-06 20:29:38,073 - __main__ - INFO - Debug mode: True
+2025-09-06 20:29:38,089 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 20:29:38,095 - werkzeug - INFO -  * Debugger PIN: 397-934-834
+2025-09-06 20:29:46,710 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:29:46] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-06 20:29:46,724 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:29:46] "GET /login HTTP/1.1" 200 -
+2025-09-06 20:29:47,052 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:29:47] "[36mGET /static/js/login.js HTTP/1.1[0m" 304 -
+2025-09-06 20:29:47,052 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:29:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 20:29:47,175 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:29:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-06 20:32:09,477 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-06 20:32:12,181 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:12] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-06 20:32:13,069 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:13] "GET /login HTTP/1.1" 200 -
+2025-09-06 20:32:13,321 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:13] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-09-06 20:32:13,392 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:13] "GET /static/js/login.js HTTP/1.1" 200 -
+2025-09-06 20:32:57,088 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:57] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-06 20:32:57,854 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:57] "GET /login HTTP/1.1" 200 -
+2025-09-06 20:32:58,201 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:58] "[36mGET /static/js/login.js HTTP/1.1[0m" 304 -
+2025-09-06 20:32:58,645 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:32:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-09-06 20:34:01,655 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:34:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-06 20:34:02,659 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:34:02] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-06 20:34:03,489 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:34:03] "GET /login HTTP/1.1" 200 -
+2025-09-06 20:34:04,285 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:34:04] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-09-06 20:34:04,358 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 20:34:04] "GET /static/js/login.js HTTP/1.1" 200 -
