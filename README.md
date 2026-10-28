@@ -1,5 +1,6 @@
-**TriBioAuth: Hybrid Framework for Continuous Behavioural Biometric Authentication**
-##  Advanced Behavioral Authentication System
+# TriBioAuth: Hybrid Framework for Continuous Behavioural Biometric Authentication
+
+### An AI-Driven Approach to Continuous User Verification
 
 A sophisticated real-time continuous authentication system using behavioral biometrics, powered by machine learning and designed with modern web technologies.
 
